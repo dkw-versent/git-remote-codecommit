@@ -37,7 +37,7 @@ chmod 0755 ~/.bin/git-remote-codecommit
 ```
 $ git clone|pull|push codecommit://MyRepositoryName
 $ git clone|pull|push codecommit://demo-profile@MyRepositoryName
-$ git clone|pull|push codecommit::ap-southeast02://demo-profile@MyRepositoryName
+$ git clone|pull|push codecommit::ap-southeast-2://demo-profile@MyRepositoryName
 ```
 
 ## How does this work?
